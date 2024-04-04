@@ -64,9 +64,6 @@ Registration Page:
 
 Venue Page:
 
-![Screenshot 2024-04-04 222132](https://github.com/nikhilhmane49/Saraswati-college-international-conference-/assets/137916068/14231deb-e530-45cd-a175-abd9ea3f2a2b)
-
-
 
 ![Screenshot 2024-04-04 222119](https://github.com/nikhilhmane49/Saraswati-college-international-conference-/assets/137916068/c25f9f09-f78e-4662-9229-8039314d02d7)
 
@@ -74,3 +71,4 @@ Venue Page:
 Contact us page:
 
 
+![Screenshot 2024-04-04 222132](https://github.com/nikhilhmane49/Saraswati-college-international-conference-/assets/137916068/14231deb-e530-45cd-a175-abd9ea3f2a2b)
