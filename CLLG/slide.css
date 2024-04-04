@@ -1,0 +1,27 @@
+body{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.slideshow-container {
+    max-width: 100%; /* Adjust as needed */
+    overflow: hidden;
+    position: relative;
+    background-color: #2f2f2f;
+  }
+  
+  .slide {
+    width: 100%; /* Adjust as needed */
+    height: 100px; /* Adjust as needed */
+    display: none;
+  }
+  
+  .slide.active {
+    display: block;
+  }
+  
+  .slide img {
+    width: 100%;
+    height: 100px;
+    display: block;
+    margin: auto;
+    object-fit: cover;
+  }

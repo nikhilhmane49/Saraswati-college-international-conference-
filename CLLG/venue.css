@@ -1,0 +1,12 @@
+#Venue{
+    height: 100vw;
+}
+#mapDiv{
+    box-shadow: 0 0 5px gray;
+}
+
+@media(max-width:600px){
+    .iframe_V{
+        width: 80%;
+    }
+}
